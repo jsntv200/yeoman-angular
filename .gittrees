@@ -1,0 +1,4 @@
+[subtree "release"]
+    url = git://github.com/jsntv200/yeoman-angular.git
+    path = dist
+    branch = release
